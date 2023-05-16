@@ -64,4 +64,4 @@ try {
 employeePayrollData.salary = 30000;
 console.log(employeePayrollData.toString());
 let newEmployeePayrollData = new EmployeePayrollData(1, "Kiran", 45000, "M", new Date());
-console.log(newEmployeePayrollData.toString());
+console.log(newEmployeePayrollData.toString()); 
